@@ -74,7 +74,7 @@ form button {
   object-fit: cover;
   width: 100%;
   height: 100%;
-  border: 15px solid rgb(14, 248, 217);
+  border: 5px solid white;
 }
 
 .gallery p {
